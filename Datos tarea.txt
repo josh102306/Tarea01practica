@@ -1,3 +1,5 @@
-Nombre: 
-Edad: 
-Equipo favorito de futbol: 
+Nombre: Ali Joshua Hernández Pacheco 
+Edad: 21
+Equipo favorito de futbol: América 
+Jugador favorito: 
+Videojuego favorito actual: 
