@@ -1,0 +1,3 @@
+Nombre: 
+Edad: 
+Equipo favorito de futbol: 
